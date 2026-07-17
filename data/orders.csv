@@ -1,0 +1,6 @@
+id,region,amount,status
+o1,AMER,120.0,paid
+o2,EMEA,80.0,pending
+o3,AMER,200.0,paid
+o4,APAC,50.0,refunded
+o5,EMEA,300.0,paid
